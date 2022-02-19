@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paises Centroamaerica</title>
+    <title>Centroamaerica</title>
 </head>
 <body>
     <div>
@@ -16,61 +16,68 @@
     <nav>
         <ul>
             <li><a href="http://127.0.0.1:3000/paises_centro.html">Inicio</a></li>
-            <li><a href="https://es.wikipedia.org/wiki/Guatemala">Guatemala</a></li>
-            <li><a href=https://es.wikipedia.org/wiki/Chile>Chile</a></li>
-            <li><a href="https://es.wikipedia.org/wiki/Argentina">Argentina</a></li>
-            <li><a href="https://es.wikipedia.org/wiki/Puerto_Rico">Puerto Rico</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/El_Salvador">El Salvador</a></li>
+            <li><a href=https://es.wikipedia.org/wiki/Guatemala>Guatemala</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/Honduras">Honduras</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/Nicaragua">Nicaragua</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/Panamá">Panamá</a></li>
         </ul>
     </nav>
     <hr>
     <section>
         <article>
             <h2>
+                El Salvador
+
+            </h2>
+            <p>oficialmente República de El Salvador, es un país soberano de América Central ubicado en el litoral del océano Pacífico con una extensión territorial de 21 041 km².
+                10​ En el año 2021 contaba con una población estimada en 6 325 827 habitantes según una estimación realizada por la Dirección General de Estadísticas 
+                y Censos en compañía de la CEPAL,11​ por su densidad demográfica aproximada de 300 hab./km² es el país más densamente poblado del continente americano, 
+                sin incluir algunas islas en el mar Caribe.</p>
+        </article>
+        <article>
+            <h2>
                 Guatemala
 
             </h2>
-            <p>oficialmente República de Guatemala, es un estado soberano situado
-                en el extremo noroccidental de América Central. Políticamente, es una república democrática 
-                y representativa organizada para su administración en 22 departamentos. Su 
-                cultura es producto de la mezcla de las culturas maya y española durante la época virreinal.</p>
+            <p>​ ​ oficialmente República de Guatemala, es un estado soberano situado en el extremo noroccidental de América Central. Políticamente, 
+                es una república democrática y representativa organizada para su administración en 22 departamentos. 
+                Su cultura es producto de la mezcla de las culturas maya y española durante la época virreinal.</p>
         </article>
         <article>
             <h2>
-                Chile
+                Honduras
 
             </h2>
-            <p>​ es un país soberano, ubicado en el extremo sur de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. 
-                Su capital es la ciudad de Santiago.
-                Está constituido por tres zonas geográficas.4​ La primera de ellas, Chile continental, 
-                comprende una franja en la costa occidental del Cono Sur que se extiende entre los paralelos 17°29′57″ S y 56°32′12″ S, 
-                mayormente desde la ribera sudoriental del océano Pacífico hasta las cumbres más altas divisorias de aguas de la cordillera de los Andes. 
-                Alcanza un largo de 4270 km,22​ un ancho máximo de 445 km en los 52°21′ S y un mínimo de 90 km en los 31°37′ S.</p>
+            <p>oficialmente República de Honduras, es un país de América Central con costas en el mar Caribe al norte y en el océano Pacífico al sur.10​ Honduras es un estado unitario y se autodefine como libre, soberano e independiente. 
+                Limita al norte y este con el mar Caribe, al sureste con Nicaragua, al sur con el golfo de Fonseca y El Salvador, 
+                y al oeste con Guatemala,11​ en cuanto a los límites marítimos colinda con México, Belice, Cuba, Islas Caimán, Guatemala, Jamaica, Colombia, Nicaragua, y
+                 El Salvador.12​ La extensión territorial de Honduras, comprendiendo todas sus islas, es de 112 492 km².3</p>
         </article>
         <article>
             <h2>
-                Argentina
+                Nicaragua
 
             </h2>
-            <p>oficialmente República Argentina,f​ es un país soberano de América del Sur, ubicado en el extremo sur y sudeste de dicho subcontinente. 
-                Adopta la forma de gobierno republicana, democrática, representativa y federal.
-                la Argentina está organizada como un Estado federal descentralizado, 
-                integrado desde 1994 por un Estado nacional y 24 jurisdicciones o distritos de primer ordeno estados autogobernados,10​11​ que son 23 provincias y la 
-                Ciudad Autónoma de Buenos Aires (CABA), esta última designada como capital federal principal del país.</p>
+            <p> oficialmente llamado República de Nicaragua, es una dictadura ubicada en Centroamérica. Su capital es la ciudad de Managua, aunque anteriormente era León. Está compuesta por quince departamentos y
+                dos regiones autónomas: Costa Caribe Norte y Costa Caribe Sur. Se ubica en el hemisferio norte, entre la línea ecuatorial y el trópico de Cáncer, aproximadamente entre los 11° y los 15° de latitud Norte y
+                respecto al meridiano de Greenwich, 
+               entre los 83° y los 88° de longitud Oeste.</p>
         </article>
         <article>
             <h2>
-                Puerto Rico
+                Panamá
 
             </h2>
-            <p>oficialmente el Estado Libre Asociado de Puerto Rico, es uno de los territorios no incorporados de los 
-                Estados Unidos y uno de los dos estados libres asociados con estatus de autogobierno de los Estados Unidos. 
-                Está ubicado en América, al noreste del Caribe, al este
-                de la isla de La Española y al oeste de las Islas Vírgenes de los Estados Unidos.</p>
+            <p> oficialmente República de Panamá, es un país transregional ubicado entre América del Sur y América Central. Su capital es la Ciudad de Panamá.12​ Limita al norte con el mar Caribe, al sur con el océano Pacífico, 
+                al este con Colombia y al oeste con Costa Rica. Tiene una extensión de 75 517 km².1​ Localizado en el istmo del mismo nombre, franja que une a América del Sur con América Central, su territorio montañoso solamente
+                 es interrumpido por la cuenca del canal de Panamá, 
+                la vía interoceánica que une al océano Atlántico con el Pacífico. .</p>
         </article>
     </section>
     <hr>
     <aside>
-        <p>Esta pagina web esta destina para ser consumida para fines educativos
+        <p>Esta es una Pagina Web que muestra el uso de las etiquetas de estructura semantica provistas por html5.
         </p>
     </aside>
     <footer>
