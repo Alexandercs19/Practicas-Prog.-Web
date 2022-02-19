@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paises Centroamaerica</title>
+</head>
+<body>
+    <div>
+        <header>
+            
+           <h1>Pagina web informativa sobre los paises de centroamaerica</h1>
+        </header>
+        
+    <nav>
+        <ul>
+            <li><a href="http://127.0.0.1:3000/paises_centro.html">Inicio</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/Guatemala">Guatemala</a></li>
+            <li><a href=https://es.wikipedia.org/wiki/Chile>Chile</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/Argentina">Argentina</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/Puerto_Rico">Puerto Rico</a></li>
+        </ul>
+    </nav>
+    <hr>
+    <section>
+        <article>
+            <h2>
+                Guatemala
+
+            </h2>
+            <p>oficialmente República de Guatemala, es un estado soberano situado
+                en el extremo noroccidental de América Central. Políticamente, es una república democrática 
+                y representativa organizada para su administración en 22 departamentos. Su 
+                cultura es producto de la mezcla de las culturas maya y española durante la época virreinal.</p>
+        </article>
+        <article>
+            <h2>
+                Chile
+
+            </h2>
+            <p>​ es un país soberano, ubicado en el extremo sur de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. 
+                Su capital es la ciudad de Santiago.
+                Está constituido por tres zonas geográficas.4​ La primera de ellas, Chile continental, 
+                comprende una franja en la costa occidental del Cono Sur que se extiende entre los paralelos 17°29′57″ S y 56°32′12″ S, 
+                mayormente desde la ribera sudoriental del océano Pacífico hasta las cumbres más altas divisorias de aguas de la cordillera de los Andes. 
+                Alcanza un largo de 4270 km,22​ un ancho máximo de 445 km en los 52°21′ S y un mínimo de 90 km en los 31°37′ S.</p>
+        </article>
+        <article>
+            <h2>
+                Argentina
+
+            </h2>
+            <p>oficialmente República Argentina,f​ es un país soberano de América del Sur, ubicado en el extremo sur y sudeste de dicho subcontinente. 
+                Adopta la forma de gobierno republicana, democrática, representativa y federal.
+                la Argentina está organizada como un Estado federal descentralizado, 
+                integrado desde 1994 por un Estado nacional y 24 jurisdicciones o distritos de primer ordeno estados autogobernados,10​11​ que son 23 provincias y la 
+                Ciudad Autónoma de Buenos Aires (CABA), esta última designada como capital federal principal del país.</p>
+        </article>
+        <article>
+            <h2>
+                Puerto Rico
+
+            </h2>
+            <p>oficialmente el Estado Libre Asociado de Puerto Rico, es uno de los territorios no incorporados de los 
+                Estados Unidos y uno de los dos estados libres asociados con estatus de autogobierno de los Estados Unidos. 
+                Está ubicado en América, al noreste del Caribe, al este
+                de la isla de La Española y al oeste de las Islas Vírgenes de los Estados Unidos.</p>
+        </article>
+    </section>
+    <hr>
+    <aside>
+        <p>Esta pagina web esta destina para ser consumida para fines educativos
+        </p>
+    </aside>
+    <footer>
+        <p>Todo los derechos reservados©</p>
+    </footer>
+</body>
+</html>
