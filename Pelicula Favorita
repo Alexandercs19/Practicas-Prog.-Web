@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea 1</title>
+</head>
+<body>
+    <h1>Mi ultima pelicula vista</h1>
+    <hr>
+    <div>
+        <h2>"Spiderman: No way home"
+
+        </h2>
+        
+        <h2> 
+            Elenco
+        </h2>
+
+        <h4>
+            Tom homlland "Spiderman 1",
+        </h4>
+        <h4>
+            Tobey Maguire "Spiderman 2",
+            <h4>
+        <h4>
+            Andrew Garfield "Spiderman 3",
+        </h4>
+        <h4>
+            Zendaya "MJ",
+        </h4>
+        <h4>
+            Marisa Tomei "Mary Parker",
+        </h4>
+        <h4>
+            Jamie Foxx "Electro"
+        </h4>
+    </div>
+    <hr>
+    <div>
+        <h3> Pelicula Accion/Aventura </h3>
+        <blockquote> Sony Universal Pictures</blockquote>
+        <cite> Alexander Cruz</cite>
+    </div>
+</body>
+</html>
